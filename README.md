@@ -1,4 +1,4 @@
-👋 Hi. Im a Computer Science Student Degree in FAMAF and aspiring Software Developer with basic knowledge of Web Design and Development
+👋 Hi. Im a Computer Science Student Degree in <a href="https://www.famaf.unc.edu.ar/la-facultad/qui%C3%A9nes-somos/">FAMAF</a> with basic knowledge of Web Design & Development
 
 👀 Check out my <a href="https://d173w.github.io/portfolio">Portfolio</a>
 
